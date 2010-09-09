@@ -1,9 +1,0 @@
-<stack>
-  <description brief="brics_interface">brics_interface</description>
-  <author>Maintained by Alexander Bubeck</author>
-  <license>BSD</license>  
-  <review status="unreviewed" notes=""/>
-  <url>http://ros.org/wiki/brics_interface</url>
-  <depend stack="ros" />
-
-</stack>
